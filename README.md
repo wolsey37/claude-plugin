@@ -2,7 +2,7 @@
 
 흥디약사님의 Claude Code 플러그인 모음.
 
-## yaksa-studio
+## pharmacist-studio
 
 약사 크리에이터 콘텐츠 파이프라인 자동화 플러그인.
 
@@ -21,5 +21,5 @@
 Claude Code 플러그인 마켓플레이스 또는 로컬 경로로 설치합니다.
 
 ```
-/plugin install yaksa-studio
+/plugin install pharmacist-studio
 ```
