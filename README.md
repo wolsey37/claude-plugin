@@ -1,6 +1,6 @@
 # claude-plugin
 
-흥디약사님의 Claude Code 플러그인 모음.
+약사 크리에이터를 위한 Claude Code 플러그인 모음.
 
 ## pharmacist-studio
 

@@ -1,5 +1,5 @@
 #!/bin/bash
-# yaksa-studio 플러그인 → GitHub 푸시 스크립트
+# pharmacist-studio 플러그인 → GitHub 푸시 스크립트
 # 이 파일을 더블클릭하면 자동 실행됩니다
 
 cd "$(dirname "$0")"
@@ -24,7 +24,7 @@ git add .
 
 echo ""
 echo "💾 커밋..."
-git commit -m "feat: yaksa-studio plugin 초기 버전
+git commit -m "feat: pharmacist-studio plugin 초기 버전
 
 - /수집: 올리브영 + 쓰레드 실시간 수집 (Chrome MCP)
 - /성분: 식약처 기준 전성분 분석
