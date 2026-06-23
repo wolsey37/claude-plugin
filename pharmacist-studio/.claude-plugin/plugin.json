@@ -1,6 +1,6 @@
 {
   "name": "pharmacist-studio",
-  "version": "0.4.3",
+  "version": "0.5.0",
   "description": "약사 크리에이터 콘텐츠 파이프라인 자동화 — /수집, /성분, /비교, /통합, /디자인, /각본",
   "author": {
     "name": "Wolsey"
